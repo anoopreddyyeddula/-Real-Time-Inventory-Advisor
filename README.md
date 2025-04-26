@@ -2,13 +2,13 @@
 
 An AI-powered real-time inventory management system that predicts sales trends and provides restocking recommendations using a combination of Machine Learning and Generative AI.
 
-Built with ❤️ using Gradio, Scikit-learn, and Hugging Face Transformers.
+Built using Gradio, Scikit-learn, and Hugging Face Transformers.
 
 ---
 
 ## 📸 Demo
 
-> *[Insert a screenshot or GIF of your deployed app here]*
+> *https://huggingface.co/spaces/anoopreddyyeddula/Real-Time-Inventory-Advisor*
 
 ---
 
