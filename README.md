@@ -6,9 +6,8 @@ Built using Gradio, Scikit-learn, and Hugging Face Transformers.
 
 ---
 
-## 📸 Demo
-
-> *https://huggingface.co/spaces/anoopreddyyeddula/Real-Time-Inventory-Advisor*
+## 🔗 Deployment
+- Live on [Hugging Face Spaces](https://huggingface.co/spaces/anoopreddyyeddula/Real-Time-Inventory-Advisor) 🚀
 
 ---
 
@@ -72,7 +71,7 @@ python train_model.py
 python app.py
 ```
 
-The Gradio interface will be available at `http://localhost:7860/`.
+The Gradio interface will be available at `https://huggingface.co/spaces/anoopreddyyeddula/Real-Time-Inventory-Advisor`.
 
 ---
 
